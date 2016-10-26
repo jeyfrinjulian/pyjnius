@@ -9,6 +9,7 @@ All the documentation is available at: http://pyjnius.readthedocs.org
 
 __version__ = '1.1-dev'
 
+import os
 from .jnius import *
 from .reflect import *
 
